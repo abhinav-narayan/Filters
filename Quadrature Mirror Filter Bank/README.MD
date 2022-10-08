@@ -1,0 +1,1 @@
+This folder contains a computation for Quadrature Mirror Filter Bank. This filter bank contains both FIR and IIR filters. Quadrature Mirror Filter bank has got key applications in signal compression and reconstruction.
